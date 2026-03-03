@@ -1,0 +1,54 @@
+body {
+    background-image: url(haewon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-shadow: 1px 1px 3px black;
+}
+
+.haewon_side_card {
+    
+    background-color: rgba(0,0,0,0.5);
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+    height: 1080px;
+    z-index: 1;
+    padding: 20px;
+
+}
+
+.back_button {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        color: white;
+    }
+
+    h2 {
+        font-family: Arial, Helvetica, sans-serif;   
+        font-weight: 700;     
+        color: white
+    }
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
